@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**xxBreadGodxx/xxBreadGodxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### <div align="center">🍞Bread God🍞
+<div align="center">
+<img src="https://user-images.githubusercontent.com/109131363/210083705-780717ad-0a26-4839-a365-04bdde8fade5.png" align="center" style="width: 70%"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+
+- Learning how to code alittle bit of everything all of the time.
+
+- Usually coding in c#, messed around with java, python, html, and c++ enough to hold a conversation.
+
+- Trying to stay occupied all the time, so I make whatever comes to mind if I'm able.
+
+- Hyperfocusing is key especially when it gives you super powers to learn as fast as I do...
+
+- Lan party when?
+</div>
