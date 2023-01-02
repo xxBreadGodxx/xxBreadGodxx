@@ -10,7 +10,7 @@
 
 - Learning how to code alittle bit of everything all of the time.
 
-- Usually coding in c#, messed around with java, python, html, and c++ enough to hold a conversation.
+- Usually coding in c# and now c++, messed around with java, python, and html enough to hold a conversation.
 
 - Trying to stay occupied all the time, so I make whatever comes to mind if I'm able.
 
